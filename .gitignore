@@ -4,7 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-
+node_modules/
+.next/
+.pnpm-store/
+.DS_Store
+*.log
+AppData/
 # testing
 /coverage
 
